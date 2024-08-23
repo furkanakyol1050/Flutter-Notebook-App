@@ -7,11 +7,14 @@
   <img hspace="20" src="https://github.com/user-attachments/assets/b4d4b423-58b1-4269-84b4-f8c701ce1ab0" width="200" height="380">
 <p>
 
+## External packages used in the project:
 
+| packages | links |
+| --| --|
+| hive_flutter (v1.1.0) | [Link](https://pub.dev/packages/hive_flutter) |
+| build_runner (v2.4.6) | [Link](https://pub.dev/packages/build_runner) |
+| hive_generator (v2.0.1) | [Link](https://pub.dev/packages/hive_generator) |
+| state_notifier (v1.0.0) |[Link](https://pub.dev/packages/state_notifier)  |
+| icons_plus (v4.0.0) | [Link](https://pub.dev/packages/icons_plus) |
+| flutter_riverpod (v2.4.0) | [Link](https://pub.dev/packages/flutter_riverpod) |
 
-  icons_plus: ^4.0.0
-  flutter_riverpod: ^2.4.0
-  state_notifier: ^1.0.0
-  hive_generator: ^2.0.1
-  build_runner: ^2.4.6
-  hive_flutter: ^1.1.0
