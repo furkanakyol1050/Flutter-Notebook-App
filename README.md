@@ -1,13 +1,15 @@
-# Flutter Notebook Application
+# Flutter Not Defteri Uygulaması
+## 🚀 Proje Tanımı ve Özellikleri
+Hive paketi sayesinde notlarınız, cihazınızın yerel deposunda güvenle saklanır. Notlarınızı renklerle kategorize edebilir, önemli notlarınızı yıldızlayarak listenin en üstüne taşıyabilirsiniz. Yanlışlıkla silme işlemlerini önlemek için notları silmeden önce onaylama mekanizması bulunur.
 
-## App Screenshot:
+## Uygulama Ekran Görüntüleri:
 <p align="center">
   <img hspace="20" src="https://github.com/user-attachments/assets/f62f9111-6f3a-43b9-b186-3a4efd094bc6" width="200" height="380">
   <img hspace="20" src="https://github.com/user-attachments/assets/f35365eb-ed66-4230-bd11-956e11b58444" width="200" height="380">
   <img hspace="20" src="https://github.com/user-attachments/assets/b4d4b423-58b1-4269-84b4-f8c701ce1ab0" width="200" height="380">
 <p>
 
-## External packages used in the project:
+## Kullanılan paketler:
 
 | packages | links |
 | --| --|
